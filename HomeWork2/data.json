@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "src": "./img/nature1.jpg"
+    },
+    {
+        "id": 2,
+        "src": "./img/nature2.jpg"
+    },
+    {
+        "id": 3,
+        "src": "./img/nature3.jpg"
+    },
+    {
+        "id": 4,
+        "src": "./img/nature4.jpg"
+    },
+    {
+        "id": 5,
+        "src": "./img/nature5.jpg"
+    },
+    {
+        "id": 6,
+        "src": "./img/nature6.jpg"
+    },
+    {
+        "id": 7,
+        "src": "./img/nature7.jpg"
+    }
+]
